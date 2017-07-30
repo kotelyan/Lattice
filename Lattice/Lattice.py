@@ -22,7 +22,7 @@ if __name__=="__main__":
     la.Grid[1][0].SetType(PartType.B)
     print('la(0,0)',str(la.Grid[0][0].Type))
     print('la(1,0)',la.Grid[1][0].Type)
-    print('apa value +1',apa.Type.value+1)
+    print('apa value +1',apa.Type.value+3)
     
     
     
